@@ -65,10 +65,7 @@ java LectorTexto entrada.txt | java FiltraLineas | java ContadorPalabras
    - Ejemplo:  
      ```bash
      java LectorTexto entrada.txt | java FiltraLineas | java ContadorPalabras
-     ```
-
-3. **Capturas de pantalla**  
-   - Incluye en el informe final capturas que demuestren la ejecución de cada parte y la tubería completa.  
+     ```  
 
 ---
 
@@ -87,6 +84,6 @@ java LectorTexto entrada.txt | java FiltraLineas | java ContadorPalabras
 
 ---
 
-## ✨ Autor
+## ✨ Autor: Alberto Alcalde Montero
 👨‍💻 Proyecto desarrollado para la asignatura de **Programación en Java**  
 📅 Curso 2025  
